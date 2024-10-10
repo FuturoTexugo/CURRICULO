@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    background-color: black;
+}
+
+h1, h2, h3 {
+    color: lightblue;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+#img{
+    float: right;
+    align-items: right;
+    float: top;
+    margin-top: -17%;
+    border-radius: 109px;
+    margin-left: 170px;
+}
+p{
+    color:aliceblue
+}
+.section {
+    margin-bottom: 20px;
+}
+
+.section-title {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+li{
+    color: aliceblue;
+}
